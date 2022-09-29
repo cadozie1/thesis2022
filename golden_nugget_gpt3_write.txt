@@ -1,0 +1,21 @@
+Pao shu goes to the grove.
+Pao shu gives the gold to Ki wu.
+Pao shu gives the gold to Ki wu.
+Ki wu and Pao shu go to the pathway.
+Ki wu goes to the grove.
+Pao shu walks from the grove to the city, and all friends of Pao shu that are awake nearby follow.
+Pao shu walks from the city to the stream, and all friends of Pao shu that are awake nearby follow.
+Pao shu walks from the stream to the pathway, and all friends of Pao shu that are awake nearby follow.
+Pao shu walks from the pathway to the spring, and all friends of Pao shu that are awake nearby follow.
+Pao shu talks to the countryman.
+Pao shu picks up the gold nugget in the pathway.
+Pao shu gives the gold nugget to the countryman.
+The countryman gives the gold nugget to Pao shu.
+Pao shu picks up the second gold nugget in the pathway.
+Pao shu gives the second gold nugget to the countryman.
+The countryman gives the second gold nugget to Pao shu.
+Pao shu gives the second gold nugget to Ki wu.
+Pao shu talks to Ki wu.
+Pao shu walks from the grove to the city, and all friends of Pao shu that are awake nearby follow.
+Ki wu walks from the city to the stream, and all friends of Ki wu that are awake nearby follow.
+Ki wu walks from the stream to the pathway, and all friends of Ki wu that are awake nearby follow.

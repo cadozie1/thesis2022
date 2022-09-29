@@ -1,0 +1,10 @@
+Here is the context for the story:
+
+Rapunzel is a girl who grew up in a tower. Her father left her to an enchantress as punishment for stealing the enchantress's flower for her mother. There is a prince in a castle. The king has a ladder. Rapunzel wants to leave the tower. The prince wants to find true love. This story is not like the traiditional Rapunzel story.
+
+Here is the sequence of actions that the story should follow:
+
+Rapunzel cuts Rapunzel's hair. Rapunzel uses the cut hair to climb down the tower. Rapunzel walks from the tower to the forest. Rapunzel walks from the forest to the castle. The prince sings, serenading everyone around. Rapunzel sweet talks the prince. Rapunzel marries the prince. The prince walks from the castle to the forest. The prince walks from the forest to the tower. After years of waiting, the enchantress's hair grows out. The prince climbs the tower with the help of the enchantress. The prince has no way down, so the prince jumps off the tower. 
+
+Paraphrase the story with as few words from the original text as possible:
+
