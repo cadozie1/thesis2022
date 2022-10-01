@@ -16,7 +16,7 @@ def complete(filename_read, filename_write, model_type, num_max_tokens, temp):
     )
 
     result = (completion.choices[0].text)
-    print(result)
+#    print(result)
     write_file = open(filename_write, "a")
     write_file.write(result)
     write_file.close()

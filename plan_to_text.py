@@ -1,6 +1,9 @@
+#!/usr/bin/env python
+
 import solve
 import gpt3
 import stats
+import sys
 
 def actionToText(action, storyNum):
     #rapunzel
@@ -75,7 +78,15 @@ def planFileToActions(planfile):
 
     return actions 
 
-def do_everything(initial_prompt, domain, problem, plan, gpt3_r, gpt3_w, storyNum):
+def main(): 
+    initial_prompt = sys.argv[1]
+    domain = sys.argv[2]
+    problem = sys.argv[3]
+    plan = sys.argv[4]
+    gpt3_r = sys.argv[5]
+    gpt3_w = sys.argv[6]
+    storyNum = int(sys.argv[7])
+    print(storyNum)
     f = open(gpt3_r, "w")
     with open(initial_prompt) as prompt:
         f.write(prompt.read())
@@ -126,10 +137,9 @@ def do_everything(initial_prompt, domain, problem, plan, gpt3_r, gpt3_w, storyNu
     stats.descriptiveStats(gpt3_w)
         
 
-def main():
     #do_everything("rapunzel_prompt.txt", "rapunzel_domain.pddl", "rapunzel_problem.pddl", "rapunzel_plan.ipc", "rapunzel_gpt3_read.txt", "rapunzel_gpt3_write.txt", 0)
 #    do_everything("golden_nugget_prompt.txt".\n"golden_nugget_domain.pddl".\n"golden_nugget_problem.pddl".\n"golden_nugget_plan.ipc".\n"golden_nugget_gpt3_read.txt".\n"golden_nugget_gpt3_write.txt", 1)
-    do_everything("monkey_heart_prompt.txt", "monkey_heart_domain.pddl", "monkey_heart_problem.pddl", "monkey_heart_plan.ipc", "monkey_heart_gpt3_read.txt", "monkey_heart_gpt3_write.txt", 2)
+#    do_everything("monkey_heart_prompt.txt", "monkey_heart_domain.pddl", "monkey_heart_problem.pddl", "monkey_heart_plan.ipc", "monkey_heart_gpt3_read.txt", "monkey_heart_gpt3_write.txt", 2)
 
 #    solve.find_plan("golden_nugget_domain.pddl".\n"golden_nugget_problem.pddl".\n"golden_nugget_plan.ipc")
 #    for action in planFileToActions("golden_nugget_plan.ipc"):
