@@ -5,6 +5,7 @@ import gpt3
 import stats
 import sys
 
+
 def actionToText(action, storyNum):
     #rapunzel
     action_name = action[0]
@@ -86,7 +87,10 @@ def main():
     gpt3_r = sys.argv[5]
     gpt3_w = sys.argv[6]
     storyNum = int(sys.argv[7])
-    print(storyNum)
+
+    print("Here's the initial prompt:")
+    stats.descriptiveStats(initial_prompt)
+
     f = open(gpt3_r, "w")
     with open(initial_prompt) as prompt:
         f.write(prompt.read())
@@ -134,8 +138,8 @@ def main():
 
 
 
-    stats.descriptiveStats(gpt3_w)
         
+    stats.descriptiveStats(gpt3_w)
 
     #do_everything("rapunzel_prompt.txt", "rapunzel_domain.pddl", "rapunzel_problem.pddl", "rapunzel_plan.ipc", "rapunzel_gpt3_read.txt", "rapunzel_gpt3_write.txt", 0)
 #    do_everything("golden_nugget_prompt.txt".\n"golden_nugget_domain.pddl".\n"golden_nugget_problem.pddl".\n"golden_nugget_plan.ipc".\n"golden_nugget_gpt3_read.txt".\n"golden_nugget_gpt3_write.txt", 1)
