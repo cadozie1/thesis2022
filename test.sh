@@ -36,7 +36,6 @@ do_everything()
             
             ./plan_to_text.py "${prompt_file}" "${domain_file}" "${problem_file}" "${plan_file}" "${gpt3_r_file}" "${gpt3_w_file}" "${STORY_NUM}" 
 
-            sleep 10 &
         done
 
     done

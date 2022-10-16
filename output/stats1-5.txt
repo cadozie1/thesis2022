@@ -1,0 +1,420 @@
+Working on story: ./rapunzel...
+
+rapunzel1
+Here's the initial prompt:
+Stats for "./rapunzel/prompts/rapunzel1.txt":
+Number of sentences: 7
+Number of tokens: 80
+Average number of tokens per sentence 11.43
+Adjectives: 	 	                    2
+Adverbs:    	 	                    2
+Prepositions/Subordinating Conjuctions:     8 
+Total:      	 	                   12
+
+
+Stats for "./output/rapunzel_rapunzel1_1.txt":
+Number of sentences: 21
+Number of tokens: 316
+Average number of tokens per sentence 15.05
+Adjectives: 	 	                   14
+Adverbs:    	 	                    4
+Prepositions/Subordinating Conjuctions:    40 
+Total:      	 	                   58
+
+
+Here's the initial prompt:
+Stats for "./rapunzel/prompts/rapunzel1.txt":
+Number of sentences: 7
+Number of tokens: 80
+Average number of tokens per sentence 11.43
+Adjectives: 	 	                    2
+Adverbs:    	 	                    2
+Prepositions/Subordinating Conjuctions:     8 
+Total:      	 	                   12
+
+
+Stats for "./output/rapunzel_rapunzel1_2.txt":
+Number of sentences: 16
+Number of tokens: 267
+Average number of tokens per sentence 16.69
+Adjectives: 	 	                    9
+Adverbs:    	 	                    9
+Prepositions/Subordinating Conjuctions:    34 
+Total:      	 	                   52
+
+
+Here's the initial prompt:
+Stats for "./rapunzel/prompts/rapunzel1.txt":
+Number of sentences: 7
+Number of tokens: 80
+Average number of tokens per sentence 11.43
+Adjectives: 	 	                    2
+Adverbs:    	 	                    2
+Prepositions/Subordinating Conjuctions:     8 
+Total:      	 	                   12
+
+
+Stats for "./output/rapunzel_rapunzel1_3.txt":
+Number of sentences: 18
+Number of tokens: 265
+Average number of tokens per sentence 14.72
+Adjectives: 	 	                    7
+Adverbs:    	 	                    7
+Prepositions/Subordinating Conjuctions:    28 
+Total:      	 	                   42
+
+
+Here's the initial prompt:
+Stats for "./rapunzel/prompts/rapunzel1.txt":
+Number of sentences: 7
+Number of tokens: 80
+Average number of tokens per sentence 11.43
+Adjectives: 	 	                    2
+Adverbs:    	 	                    2
+Prepositions/Subordinating Conjuctions:     8 
+Total:      	 	                   12
+
+
+Stats for "./output/rapunzel_rapunzel1_4.txt":
+Number of sentences: 16
+Number of tokens: 250
+Average number of tokens per sentence 15.62
+Adjectives: 	 	                    7
+Adverbs:    	 	                   10
+Prepositions/Subordinating Conjuctions:    27 
+Total:      	 	                   44
+
+
+Here's the initial prompt:
+Stats for "./rapunzel/prompts/rapunzel1.txt":
+Number of sentences: 7
+Number of tokens: 80
+Average number of tokens per sentence 11.43
+Adjectives: 	 	                    2
+Adverbs:    	 	                    2
+Prepositions/Subordinating Conjuctions:     8 
+Total:      	 	                   12
+
+
+Stats for "./output/rapunzel_rapunzel1_5.txt":
+Number of sentences: 17
+Number of tokens: 233
+Average number of tokens per sentence 13.71
+Adjectives: 	 	                   10
+Adverbs:    	 	                    6
+Prepositions/Subordinating Conjuctions:    28 
+Total:      	 	                   44
+
+
+rapunzel2
+Here's the initial prompt:
+Stats for "./rapunzel/prompts/rapunzel2.txt":
+Number of sentences: 7
+Number of tokens: 128
+Average number of tokens per sentence 18.29
+Adjectives: 	 	                   13
+Adverbs:    	 	                    4
+Prepositions/Subordinating Conjuctions:    19 
+Total:      	 	                   36
+
+
+Stats for "./output/rapunzel_rapunzel2_1.txt":
+Number of sentences: 17
+Number of tokens: 252
+Average number of tokens per sentence 14.82
+Adjectives: 	 	                   11
+Adverbs:    	 	                   12
+Prepositions/Subordinating Conjuctions:    31 
+Total:      	 	                   54
+
+
+Here's the initial prompt:
+Stats for "./rapunzel/prompts/rapunzel2.txt":
+Number of sentences: 7
+Number of tokens: 128
+Average number of tokens per sentence 18.29
+Adjectives: 	 	                   13
+Adverbs:    	 	                    4
+Prepositions/Subordinating Conjuctions:    19 
+Total:      	 	                   36
+
+
+Stats for "./output/rapunzel_rapunzel2_2.txt":
+Number of sentences: 16
+Number of tokens: 228
+Average number of tokens per sentence 14.25
+Adjectives: 	 	                    5
+Adverbs:    	 	                    8
+Prepositions/Subordinating Conjuctions:    31 
+Total:      	 	                   44
+
+
+Here's the initial prompt:
+Stats for "./rapunzel/prompts/rapunzel2.txt":
+Number of sentences: 7
+Number of tokens: 128
+Average number of tokens per sentence 18.29
+Adjectives: 	 	                   13
+Adverbs:    	 	                    4
+Prepositions/Subordinating Conjuctions:    19 
+Total:      	 	                   36
+
+
+Stats for "./output/rapunzel_rapunzel2_3.txt":
+Number of sentences: 17
+Number of tokens: 268
+Average number of tokens per sentence 15.76
+Adjectives: 	 	                   12
+Adverbs:    	 	                   10
+Prepositions/Subordinating Conjuctions:    32 
+Total:      	 	                   54
+
+
+Here's the initial prompt:
+Stats for "./rapunzel/prompts/rapunzel2.txt":
+Number of sentences: 7
+Number of tokens: 128
+Average number of tokens per sentence 18.29
+Adjectives: 	 	                   13
+Adverbs:    	 	                    4
+Prepositions/Subordinating Conjuctions:    19 
+Total:      	 	                   36
+
+
+Stats for "./output/rapunzel_rapunzel2_4.txt":
+Number of sentences: 15
+Number of tokens: 279
+Average number of tokens per sentence 18.60
+Adjectives: 	 	                    8
+Adverbs:    	 	                    7
+Prepositions/Subordinating Conjuctions:    39 
+Total:      	 	                   54
+
+
+Here's the initial prompt:
+Stats for "./rapunzel/prompts/rapunzel2.txt":
+Number of sentences: 7
+Number of tokens: 128
+Average number of tokens per sentence 18.29
+Adjectives: 	 	                   13
+Adverbs:    	 	                    4
+Prepositions/Subordinating Conjuctions:    19 
+Total:      	 	                   36
+
+
+Stats for "./output/rapunzel_rapunzel2_5.txt":
+Number of sentences: 20
+Number of tokens: 297
+Average number of tokens per sentence 14.85
+Adjectives: 	 	                   11
+Adverbs:    	 	                   16
+Prepositions/Subordinating Conjuctions:    32 
+Total:      	 	                   59
+
+
+rapunzel3
+Here's the initial prompt:
+Stats for "./rapunzel/prompts/rapunzel3.txt":
+Number of sentences: 7
+Number of tokens: 94
+Average number of tokens per sentence 13.43
+Adjectives: 	 	                    6
+Adverbs:    	 	                    2
+Prepositions/Subordinating Conjuctions:    11 
+Total:      	 	                   19
+
+
+Stats for "./output/rapunzel_rapunzel3_1.txt":
+Number of sentences: 13
+Number of tokens: 228
+Average number of tokens per sentence 17.54
+Adjectives: 	 	                    7
+Adverbs:    	 	                   10
+Prepositions/Subordinating Conjuctions:    27 
+Total:      	 	                   44
+
+
+Here's the initial prompt:
+Stats for "./rapunzel/prompts/rapunzel3.txt":
+Number of sentences: 7
+Number of tokens: 94
+Average number of tokens per sentence 13.43
+Adjectives: 	 	                    6
+Adverbs:    	 	                    2
+Prepositions/Subordinating Conjuctions:    11 
+Total:      	 	                   19
+
+
+Stats for "./output/rapunzel_rapunzel3_2.txt":
+Number of sentences: 18
+Number of tokens: 261
+Average number of tokens per sentence 14.50
+Adjectives: 	 	                   10
+Adverbs:    	 	                    8
+Prepositions/Subordinating Conjuctions:    33 
+Total:      	 	                   51
+
+
+Here's the initial prompt:
+Stats for "./rapunzel/prompts/rapunzel3.txt":
+Number of sentences: 7
+Number of tokens: 94
+Average number of tokens per sentence 13.43
+Adjectives: 	 	                    6
+Adverbs:    	 	                    2
+Prepositions/Subordinating Conjuctions:    11 
+Total:      	 	                   19
+
+
+Stats for "./output/rapunzel_rapunzel3_3.txt":
+Number of sentences: 18
+Number of tokens: 258
+Average number of tokens per sentence 14.33
+Adjectives: 	 	                    8
+Adverbs:    	 	                    9
+Prepositions/Subordinating Conjuctions:    31 
+Total:      	 	                   48
+
+
+Here's the initial prompt:
+Stats for "./rapunzel/prompts/rapunzel3.txt":
+Number of sentences: 7
+Number of tokens: 94
+Average number of tokens per sentence 13.43
+Adjectives: 	 	                    6
+Adverbs:    	 	                    2
+Prepositions/Subordinating Conjuctions:    11 
+Total:      	 	                   19
+
+
+Stats for "./output/rapunzel_rapunzel3_4.txt":
+Number of sentences: 18
+Number of tokens: 285
+Average number of tokens per sentence 15.83
+Adjectives: 	 	                   11
+Adverbs:    	 	                    8
+Prepositions/Subordinating Conjuctions:    32 
+Total:      	 	                   51
+
+
+Here's the initial prompt:
+Stats for "./rapunzel/prompts/rapunzel3.txt":
+Number of sentences: 7
+Number of tokens: 94
+Average number of tokens per sentence 13.43
+Adjectives: 	 	                    6
+Adverbs:    	 	                    2
+Prepositions/Subordinating Conjuctions:    11 
+Total:      	 	                   19
+
+
+Stats for "./output/rapunzel_rapunzel3_5.txt":
+Number of sentences: 16
+Number of tokens: 234
+Average number of tokens per sentence 14.62
+Adjectives: 	 	                   13
+Adverbs:    	 	                    4
+Prepositions/Subordinating Conjuctions:    27 
+Total:      	 	                   44
+
+
+Working on story: ./golden_nugget...
+
+golden_nugget1
+Here's the initial prompt:
+Stats for "./golden_nugget/prompts/golden_nugget1.txt":
+Number of sentences: 10
+Number of tokens: 185
+Average number of tokens per sentence 18.50
+Adjectives: 	 	                   11
+Adverbs:    	 	                   13
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   39
+
+
+Stats for "./output/golden_nugget_golden_nugget1_1.txt":
+Number of sentences: 23
+Number of tokens: 385
+Average number of tokens per sentence 16.74
+Adjectives: 	 	                   21
+Adverbs:    	 	                    6
+Prepositions/Subordinating Conjuctions:    50 
+Total:      	 	                   77
+
+
+Here's the initial prompt:
+Stats for "./golden_nugget/prompts/golden_nugget1.txt":
+Number of sentences: 10
+Number of tokens: 185
+Average number of tokens per sentence 18.50
+Adjectives: 	 	                   11
+Adverbs:    	 	                   13
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   39
+
+
+Stats for "./output/golden_nugget_golden_nugget1_2.txt":
+Number of sentences: 30
+Number of tokens: 479
+Average number of tokens per sentence 15.97
+Adjectives: 	 	                   21
+Adverbs:    	 	                   11
+Prepositions/Subordinating Conjuctions:    56 
+Total:      	 	                   88
+
+
+Here's the initial prompt:
+Stats for "./golden_nugget/prompts/golden_nugget1.txt":
+Number of sentences: 10
+Number of tokens: 185
+Average number of tokens per sentence 18.50
+Adjectives: 	 	                   11
+Adverbs:    	 	                   13
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   39
+
+
+Stats for "./output/golden_nugget_golden_nugget1_3.txt":
+Number of sentences: 25
+Number of tokens: 421
+Average number of tokens per sentence 16.84
+Adjectives: 	 	                   15
+Adverbs:    	 	                   14
+Prepositions/Subordinating Conjuctions:    51 
+Total:      	 	                   80
+
+
+Here's the initial prompt:
+Stats for "./golden_nugget/prompts/golden_nugget1.txt":
+Number of sentences: 10
+Number of tokens: 185
+Average number of tokens per sentence 18.50
+Adjectives: 	 	                   11
+Adverbs:    	 	                   13
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   39
+
+
+Here's the initial prompt:
+Stats for "./golden_nugget/prompts/golden_nugget1.txt":
+Number of sentences: 10
+Number of tokens: 185
+Average number of tokens per sentence 18.50
+Adjectives: 	 	                   11
+Adverbs:    	 	                   13
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   39
+
+
+golden_nugget_2
+Here's the initial prompt:
+Stats for "./golden_nugget/prompts/golden_nugget_2.txt":
+Number of sentences: 10
+Number of tokens: 200
+Average number of tokens per sentence 20.00
+Adjectives: 	 	                   16
+Adverbs:    	 	                   16
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   47
+
+

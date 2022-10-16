@@ -47,6 +47,7 @@ def descriptiveStats(filename):
     print("Adjectives: \t \t %20d" % adjectiveFrequency)
     print("Adverbs:    \t \t %20d" % adverbFrequency)
     print ("Prepositions/Subordinating Conjuctions: %5d " % prepSubConjFrequency)
+    print("Total:      \t \t %20d" % (adjectiveFrequency + adverbFrequency + prepSubConjFrequency))
     print("\n")
 
 def main():
