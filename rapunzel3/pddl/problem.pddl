@@ -74,10 +74,10 @@
 )
 (:goal (and
     ;the_enchantress becomes new capital_rapunzel
-    (married capital_rapunzel the_prince)
-    (in capital_rapunzel castle)
-    (hurt the_prince)
-    (not (hurt capital_rapunzel))
+;    (married capital_rapunzel the_prince)
+;    (in capital_rapunzel castle)
+;    (hurt the_prince)
+;    (not (hurt capital_rapunzel))
 
     ;the_enchantress enchants capital_rapunzels_father 
     ;(married capital_rapunzel the_prince)
@@ -94,12 +94,12 @@
     (not (hurt capital_rapunzels_father))
     (not (hurt capital_rapunzels_mother))
     
-    ;(in the_enchantress garden)
-    ;(in capital_rapunzel forest )
-    ;(in capital_rapunzels_mother tower)
-    ;(in capital_rapunzels_father tower)
-    ;(in the_king garden)
-    ;(has_ladder capital_rapunzels_mother)
+    (in the_enchantress garden)
+    (in capital_rapunzel forest )
+    (in capital_rapunzels_mother tower)
+    (in capital_rapunzels_father tower)
+    (in the_king garden)
+    (has_ladder capital_rapunzels_mother)
 
     ;(hurt capital_rapunzel)
     ;(hurt the_prince)
