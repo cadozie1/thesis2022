@@ -1,14 +1,12 @@
 #!/bin/bash
 # need to add vairant folders later
-RAPUNZEL_FOLDER="./rapunzel"
-GOLDEN_NUGGET_FOLDER="./golden_nugget"
-MONKEY_HEART_FOLDER="./monkey_heart"
 
 do_everything()
 {
     STORY_FOLDER=$1
     STORY_NUM=$2
     ITERATIONS=$3
+    START_INDEX=$4
 
     NEWLINE=$'\n'
     echo "Working on story: ${STORY_FOLDER}...${NEWLINE}"
@@ -26,7 +24,7 @@ do_everything()
 
         story_name=`basename ./${STORY_FOLDER} `
 
-        for ((i=1; i <= ${ITERATIONS}; i++))
+        for ((i=START_INDEX; i <=${ITERATIONS}+START_INDEX-1; i++))
         do
             gpt3_w_file="./output/${story_name}_${name}_${i}.txt"
             #try to remove write file so we don't end up appending at end
@@ -40,8 +38,10 @@ do_everything()
 
     done
 }
-
-do_everything "./rapunzel" 0 $1
-do_everything "./golden_nugget" 1 $1
-do_everything "./monkey_heart" 2 $1
+ARG4=${4:-1}
+echo "folder: $1"
+echo "Story: $2"
+echo "Iterations: $3"
+echo "Starting Index: ${ARG4}"
+do_everything $1 $2 $3 ARG4
 

@@ -46,7 +46,6 @@
 (:goal (and
     (virtuous capital_ki_wu)
     (virtuous capital_pao_shu)
-    (in capital_pao_shu pathway)
     (not (resting the_countryman spring))
     (not (tired capital_ki_wu))
     (in capital_ki_wu pathway)
