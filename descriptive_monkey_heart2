@@ -1,0 +1,325 @@
+folder: ./monkey_heart2
+Story: 2
+Iterations: 5
+Starting Index: 1
+Working on story: ./monkey_heart2...
+
+monkey_heart1
+Here's the initial prompt:
+Stats for "./monkey_heart2/prompts/monkey_heart1.txt":
+Number of sentences: 6
+Number of tokens: 97
+Average number of tokens per sentence 16.17
+Adjectives: 	 	                    5
+Adverbs:    	 	                    4
+Prepositions/Subordinating Conjuctions:     8 
+Total:      	 	                   17
+
+
+Stats for "./output/monkey_heart2_monkey_heart1_1.txt":
+Number of sentences: 7
+Number of tokens: 138
+Average number of tokens per sentence 19.71
+Adjectives: 	 	                    2
+Adverbs:    	 	                    4
+Prepositions/Subordinating Conjuctions:    14 
+Total:      	 	                   20
+
+
+Here's the initial prompt:
+Stats for "./monkey_heart2/prompts/monkey_heart1.txt":
+Number of sentences: 6
+Number of tokens: 97
+Average number of tokens per sentence 16.17
+Adjectives: 	 	                    5
+Adverbs:    	 	                    4
+Prepositions/Subordinating Conjuctions:     8 
+Total:      	 	                   17
+
+
+Stats for "./output/monkey_heart2_monkey_heart1_2.txt":
+Number of sentences: 11
+Number of tokens: 201
+Average number of tokens per sentence 18.27
+Adjectives: 	 	                    9
+Adverbs:    	 	                    7
+Prepositions/Subordinating Conjuctions:    20 
+Total:      	 	                   36
+
+
+Here's the initial prompt:
+Stats for "./monkey_heart2/prompts/monkey_heart1.txt":
+Number of sentences: 6
+Number of tokens: 97
+Average number of tokens per sentence 16.17
+Adjectives: 	 	                    5
+Adverbs:    	 	                    4
+Prepositions/Subordinating Conjuctions:     8 
+Total:      	 	                   17
+
+
+Stats for "./output/monkey_heart2_monkey_heart1_3.txt":
+Number of sentences: 7
+Number of tokens: 116
+Average number of tokens per sentence 16.57
+Adjectives: 	 	                    2
+Adverbs:    	 	                    2
+Prepositions/Subordinating Conjuctions:    14 
+Total:      	 	                   18
+
+
+Here's the initial prompt:
+Stats for "./monkey_heart2/prompts/monkey_heart1.txt":
+Number of sentences: 6
+Number of tokens: 97
+Average number of tokens per sentence 16.17
+Adjectives: 	 	                    5
+Adverbs:    	 	                    4
+Prepositions/Subordinating Conjuctions:     8 
+Total:      	 	                   17
+
+
+Stats for "./output/monkey_heart2_monkey_heart1_4.txt":
+Number of sentences: 11
+Number of tokens: 225
+Average number of tokens per sentence 20.45
+Adjectives: 	 	                    8
+Adverbs:    	 	                    8
+Prepositions/Subordinating Conjuctions:    26 
+Total:      	 	                   42
+
+
+Here's the initial prompt:
+Stats for "./monkey_heart2/prompts/monkey_heart1.txt":
+Number of sentences: 6
+Number of tokens: 97
+Average number of tokens per sentence 16.17
+Adjectives: 	 	                    5
+Adverbs:    	 	                    4
+Prepositions/Subordinating Conjuctions:     8 
+Total:      	 	                   17
+
+
+error
+Stats for "./output/monkey_heart2_monkey_heart1_5.txt":
+Number of sentences: 8
+Number of tokens: 139
+Average number of tokens per sentence 17.38
+Adjectives: 	 	                    3
+Adverbs:    	 	                    4
+Prepositions/Subordinating Conjuctions:    16 
+Total:      	 	                   23
+
+
+monkey_heart2
+Here's the initial prompt:
+Stats for "./monkey_heart2/prompts/monkey_heart2.txt":
+Number of sentences: 6
+Number of tokens: 126
+Average number of tokens per sentence 21.00
+Adjectives: 	 	                    9
+Adverbs:    	 	                    6
+Prepositions/Subordinating Conjuctions:    12 
+Total:      	 	                   27
+
+
+Stats for "./output/monkey_heart2_monkey_heart2_1.txt":
+Number of sentences: 7
+Number of tokens: 147
+Average number of tokens per sentence 21.00
+Adjectives: 	 	                    1
+Adverbs:    	 	                    7
+Prepositions/Subordinating Conjuctions:    17 
+Total:      	 	                   25
+
+
+Here's the initial prompt:
+Stats for "./monkey_heart2/prompts/monkey_heart2.txt":
+Number of sentences: 6
+Number of tokens: 126
+Average number of tokens per sentence 21.00
+Adjectives: 	 	                    9
+Adverbs:    	 	                    6
+Prepositions/Subordinating Conjuctions:    12 
+Total:      	 	                   27
+
+
+Stats for "./output/monkey_heart2_monkey_heart2_2.txt":
+Number of sentences: 8
+Number of tokens: 148
+Average number of tokens per sentence 18.50
+Adjectives: 	 	                    6
+Adverbs:    	 	                    2
+Prepositions/Subordinating Conjuctions:    16 
+Total:      	 	                   24
+
+
+Here's the initial prompt:
+Stats for "./monkey_heart2/prompts/monkey_heart2.txt":
+Number of sentences: 6
+Number of tokens: 126
+Average number of tokens per sentence 21.00
+Adjectives: 	 	                    9
+Adverbs:    	 	                    6
+Prepositions/Subordinating Conjuctions:    12 
+Total:      	 	                   27
+
+
+Stats for "./output/monkey_heart2_monkey_heart2_3.txt":
+Number of sentences: 10
+Number of tokens: 185
+Average number of tokens per sentence 18.50
+Adjectives: 	 	                    3
+Adverbs:    	 	                    3
+Prepositions/Subordinating Conjuctions:    19 
+Total:      	 	                   25
+
+
+Here's the initial prompt:
+Stats for "./monkey_heart2/prompts/monkey_heart2.txt":
+Number of sentences: 6
+Number of tokens: 126
+Average number of tokens per sentence 21.00
+Adjectives: 	 	                    9
+Adverbs:    	 	                    6
+Prepositions/Subordinating Conjuctions:    12 
+Total:      	 	                   27
+
+
+Stats for "./output/monkey_heart2_monkey_heart2_4.txt":
+Number of sentences: 9
+Number of tokens: 146
+Average number of tokens per sentence 16.22
+Adjectives: 	 	                    3
+Adverbs:    	 	                    4
+Prepositions/Subordinating Conjuctions:    16 
+Total:      	 	                   23
+
+
+Here's the initial prompt:
+Stats for "./monkey_heart2/prompts/monkey_heart2.txt":
+Number of sentences: 6
+Number of tokens: 126
+Average number of tokens per sentence 21.00
+Adjectives: 	 	                    9
+Adverbs:    	 	                    6
+Prepositions/Subordinating Conjuctions:    12 
+Total:      	 	                   27
+
+
+Stats for "./output/monkey_heart2_monkey_heart2_5.txt":
+Number of sentences: 8
+Number of tokens: 154
+Average number of tokens per sentence 19.25
+Adjectives: 	 	                    4
+Adverbs:    	 	                    3
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   22
+
+
+monkey_heart3
+Here's the initial prompt:
+Stats for "./monkey_heart2/prompts/monkey_heart3.txt":
+Number of sentences: 8
+Number of tokens: 165
+Average number of tokens per sentence 20.62
+Adjectives: 	 	                   14
+Adverbs:    	 	                   10
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   39
+
+
+Stats for "./output/monkey_heart2_monkey_heart3_1.txt":
+Number of sentences: 11
+Number of tokens: 186
+Average number of tokens per sentence 16.91
+Adjectives: 	 	                    4
+Adverbs:    	 	                    2
+Prepositions/Subordinating Conjuctions:    22 
+Total:      	 	                   28
+
+
+Here's the initial prompt:
+Stats for "./monkey_heart2/prompts/monkey_heart3.txt":
+Number of sentences: 8
+Number of tokens: 165
+Average number of tokens per sentence 20.62
+Adjectives: 	 	                   14
+Adverbs:    	 	                   10
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   39
+
+
+Stats for "./output/monkey_heart2_monkey_heart3_2.txt":
+Number of sentences: 7
+Number of tokens: 127
+Average number of tokens per sentence 18.14
+Adjectives: 	 	                    4
+Adverbs:    	 	                    3
+Prepositions/Subordinating Conjuctions:    13 
+Total:      	 	                   20
+
+
+Here's the initial prompt:
+Stats for "./monkey_heart2/prompts/monkey_heart3.txt":
+Number of sentences: 8
+Number of tokens: 165
+Average number of tokens per sentence 20.62
+Adjectives: 	 	                   14
+Adverbs:    	 	                   10
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   39
+
+
+Stats for "./output/monkey_heart2_monkey_heart3_3.txt":
+Number of sentences: 7
+Number of tokens: 139
+Average number of tokens per sentence 19.86
+Adjectives: 	 	                    5
+Adverbs:    	 	                    3
+Prepositions/Subordinating Conjuctions:    18 
+Total:      	 	                   26
+
+
+Here's the initial prompt:
+Stats for "./monkey_heart2/prompts/monkey_heart3.txt":
+Number of sentences: 8
+Number of tokens: 165
+Average number of tokens per sentence 20.62
+Adjectives: 	 	                   14
+Adverbs:    	 	                   10
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   39
+
+
+Stats for "./output/monkey_heart2_monkey_heart3_4.txt":
+Number of sentences: 7
+Number of tokens: 148
+Average number of tokens per sentence 21.14
+Adjectives: 	 	                    6
+Adverbs:    	 	                    2
+Prepositions/Subordinating Conjuctions:    14 
+Total:      	 	                   22
+
+
+Here's the initial prompt:
+Stats for "./monkey_heart2/prompts/monkey_heart3.txt":
+Number of sentences: 8
+Number of tokens: 165
+Average number of tokens per sentence 20.62
+Adjectives: 	 	                   14
+Adverbs:    	 	                   10
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   39
+
+
+Stats for "./output/monkey_heart2_monkey_heart3_5.txt":
+Number of sentences: 8
+Number of tokens: 144
+Average number of tokens per sentence 18.00
+Adjectives: 	 	                    6
+Adverbs:    	 	                    8
+Prepositions/Subordinating Conjuctions:    16 
+Total:      	 	                   30
+
+
