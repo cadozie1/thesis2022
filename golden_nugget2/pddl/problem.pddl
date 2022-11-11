@@ -19,6 +19,9 @@
     (friends capital_pao_shu capital_ki_wu)
     (in capital_ki_wu city)
     (in capital_pao_shu city)
+    (virtuous capital_ki_wu)
+    (virtuous capital_pao_shu)
+    (not (virtuous the_countryman))
     (tired capital_ki_wu)
     (tired capital_pao_shu)
     (has_snake pathway)
@@ -58,11 +61,13 @@
     ;(not (has_nugget2 pathway)                  
     
     ;they decide to rest in the stream instead
-    (virtuous capital_ki_wu)                          
-    (virtuous capital_pao_shu)                        
+    (not (virtuous capital_ki_wu))
+    (not (virtuous capital_pao_shu))                     
+    (virtuous the_countryman)
     (in capital_ki_wu stream)                        
-    (in capital_pao_shu stream)                      
+    (in capital_pao_shu pathway)                      
     (resting capital_ki_wu stream)
-    (resting capital_pao_shu stream)
+    (resting capital_pao_shu pathway)
 ))
 )
+

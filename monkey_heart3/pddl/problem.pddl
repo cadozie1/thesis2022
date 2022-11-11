@@ -39,7 +39,6 @@ stream - location
     (tricked_once the_donkey)
     (tricked_twice the_monkey)
     (tricked_once the_lion)
-    (heart_eater the_lion)
     (heart_eater the_sultan)
 ))
 )

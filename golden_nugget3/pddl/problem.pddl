@@ -19,6 +19,9 @@
     (friends capital_pao_shu capital_ki_wu)
     (in capital_ki_wu city)
     (in capital_pao_shu city)
+    (virtuous capital_ki_wu)
+    (virtuous capital_pao_shu)
+    (not (virtuous the_countryman))
     (tired capital_ki_wu)
     (tired capital_pao_shu)
     (has_snake pathway)
@@ -59,8 +62,8 @@
 
     (in the_countryman city)
     (not (virtuous capital_ki_wu))
-    (not (virtuous capital_pao_shu))
-    (tired the_countryman)
+    (virtuous capital_pao_shu)
+    (not (resting the_countryman))
     (in capital_pao_shu grove)
     (in capital_ki_wu grove)
     

@@ -8,332 +8,182 @@ golden_nugget1
 Here's the initial prompt:
 Stats for "./golden_nugget3/prompts/golden_nugget1.txt":
 Number of sentences: 10
-Number of tokens: 164
-Average number of tokens per sentence 16.40
-Adjectives: 	 	                   10
-Adverbs:    	 	                   10
-Prepositions/Subordinating Conjuctions:    13 
-Total:      	 	                   33
+Number of tokens: 170
+Average number of tokens per sentence 17.00
+Adjectives: 	 	                    9
+Adverbs:    	 	                   12
+Prepositions/Subordinating Conjuctions:    14 
+Total:      	 	                   35
 
 
 error
-Stats for "./output/golden_nugget3_golden_nugget1_1.txt":
-Number of sentences: 23
-Number of tokens: 328
-Average number of tokens per sentence 14.26
-Adjectives: 	 	                   15
-Adverbs:    	 	                    4
-Prepositions/Subordinating Conjuctions:    38 
-Total:      	 	                   57
-
-
 Here's the initial prompt:
 Stats for "./golden_nugget3/prompts/golden_nugget1.txt":
 Number of sentences: 10
-Number of tokens: 164
-Average number of tokens per sentence 16.40
-Adjectives: 	 	                   10
-Adverbs:    	 	                   10
-Prepositions/Subordinating Conjuctions:    13 
-Total:      	 	                   33
+Number of tokens: 170
+Average number of tokens per sentence 17.00
+Adjectives: 	 	                    9
+Adverbs:    	 	                   12
+Prepositions/Subordinating Conjuctions:    14 
+Total:      	 	                   35
 
 
 error
-Stats for "./output/golden_nugget3_golden_nugget1_2.txt":
-Number of sentences: 22
-Number of tokens: 360
-Average number of tokens per sentence 16.36
-Adjectives: 	 	                   15
-Adverbs:    	 	                   15
-Prepositions/Subordinating Conjuctions:    43 
-Total:      	 	                   73
-
-
 Here's the initial prompt:
 Stats for "./golden_nugget3/prompts/golden_nugget1.txt":
 Number of sentences: 10
-Number of tokens: 164
-Average number of tokens per sentence 16.40
-Adjectives: 	 	                   10
-Adverbs:    	 	                   10
-Prepositions/Subordinating Conjuctions:    13 
-Total:      	 	                   33
+Number of tokens: 170
+Average number of tokens per sentence 17.00
+Adjectives: 	 	                    9
+Adverbs:    	 	                   12
+Prepositions/Subordinating Conjuctions:    14 
+Total:      	 	                   35
 
 
 error
-Stats for "./output/golden_nugget3_golden_nugget1_3.txt":
-Number of sentences: 22
-Number of tokens: 337
-Average number of tokens per sentence 15.32
-Adjectives: 	 	                   14
-Adverbs:    	 	                    9
-Prepositions/Subordinating Conjuctions:    42 
-Total:      	 	                   65
-
-
 Here's the initial prompt:
 Stats for "./golden_nugget3/prompts/golden_nugget1.txt":
 Number of sentences: 10
-Number of tokens: 164
-Average number of tokens per sentence 16.40
-Adjectives: 	 	                   10
-Adverbs:    	 	                   10
-Prepositions/Subordinating Conjuctions:    13 
-Total:      	 	                   33
+Number of tokens: 170
+Average number of tokens per sentence 17.00
+Adjectives: 	 	                    9
+Adverbs:    	 	                   12
+Prepositions/Subordinating Conjuctions:    14 
+Total:      	 	                   35
 
 
 error
-Stats for "./output/golden_nugget3_golden_nugget1_4.txt":
-Number of sentences: 26
-Number of tokens: 437
-Average number of tokens per sentence 16.81
-Adjectives: 	 	                   19
-Adverbs:    	 	                    7
-Prepositions/Subordinating Conjuctions:    59 
-Total:      	 	                   85
-
-
 Here's the initial prompt:
 Stats for "./golden_nugget3/prompts/golden_nugget1.txt":
 Number of sentences: 10
-Number of tokens: 164
-Average number of tokens per sentence 16.40
-Adjectives: 	 	                   10
-Adverbs:    	 	                   10
-Prepositions/Subordinating Conjuctions:    13 
-Total:      	 	                   33
+Number of tokens: 170
+Average number of tokens per sentence 17.00
+Adjectives: 	 	                    9
+Adverbs:    	 	                   12
+Prepositions/Subordinating Conjuctions:    14 
+Total:      	 	                   35
 
 
 error
-Stats for "./output/golden_nugget3_golden_nugget1_5.txt":
-Number of sentences: 25
-Number of tokens: 401
-Average number of tokens per sentence 16.04
-Adjectives: 	 	                   18
-Adverbs:    	 	                    5
-Prepositions/Subordinating Conjuctions:    52 
-Total:      	 	                   75
-
-
 golden_nugget2
 Here's the initial prompt:
 Stats for "./golden_nugget3/prompts/golden_nugget2.txt":
-Number of sentences: 10
-Number of tokens: 184
-Average number of tokens per sentence 18.40
-Adjectives: 	 	                   15
-Adverbs:    	 	                   15
-Prepositions/Subordinating Conjuctions:    14 
-Total:      	 	                   44
+Number of sentences: 11
+Number of tokens: 192
+Average number of tokens per sentence 17.45
+Adjectives: 	 	                   14
+Adverbs:    	 	                   17
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   46
 
 
 error
-Stats for "./output/golden_nugget3_golden_nugget2_1.txt":
-Number of sentences: 22
-Number of tokens: 352
-Average number of tokens per sentence 16.00
-Adjectives: 	 	                   18
-Adverbs:    	 	                    4
-Prepositions/Subordinating Conjuctions:    37 
-Total:      	 	                   59
-
-
 Here's the initial prompt:
 Stats for "./golden_nugget3/prompts/golden_nugget2.txt":
-Number of sentences: 10
-Number of tokens: 184
-Average number of tokens per sentence 18.40
-Adjectives: 	 	                   15
-Adverbs:    	 	                   15
-Prepositions/Subordinating Conjuctions:    14 
-Total:      	 	                   44
+Number of sentences: 11
+Number of tokens: 192
+Average number of tokens per sentence 17.45
+Adjectives: 	 	                   14
+Adverbs:    	 	                   17
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   46
 
 
 error
-Stats for "./output/golden_nugget3_golden_nugget2_2.txt":
-Number of sentences: 23
-Number of tokens: 372
-Average number of tokens per sentence 16.17
-Adjectives: 	 	                   13
-Adverbs:    	 	                    8
-Prepositions/Subordinating Conjuctions:    52 
-Total:      	 	                   73
-
-
 Here's the initial prompt:
 Stats for "./golden_nugget3/prompts/golden_nugget2.txt":
-Number of sentences: 10
-Number of tokens: 184
-Average number of tokens per sentence 18.40
-Adjectives: 	 	                   15
-Adverbs:    	 	                   15
-Prepositions/Subordinating Conjuctions:    14 
-Total:      	 	                   44
+Number of sentences: 11
+Number of tokens: 192
+Average number of tokens per sentence 17.45
+Adjectives: 	 	                   14
+Adverbs:    	 	                   17
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   46
 
 
 error
-Stats for "./output/golden_nugget3_golden_nugget2_3.txt":
-Number of sentences: 25
-Number of tokens: 375
-Average number of tokens per sentence 15.00
-Adjectives: 	 	                   10
-Adverbs:    	 	                    2
-Prepositions/Subordinating Conjuctions:    55 
-Total:      	 	                   67
-
-
 Here's the initial prompt:
 Stats for "./golden_nugget3/prompts/golden_nugget2.txt":
-Number of sentences: 10
-Number of tokens: 184
-Average number of tokens per sentence 18.40
-Adjectives: 	 	                   15
-Adverbs:    	 	                   15
-Prepositions/Subordinating Conjuctions:    14 
-Total:      	 	                   44
+Number of sentences: 11
+Number of tokens: 192
+Average number of tokens per sentence 17.45
+Adjectives: 	 	                   14
+Adverbs:    	 	                   17
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   46
 
 
 error
-Stats for "./output/golden_nugget3_golden_nugget2_4.txt":
-Number of sentences: 25
-Number of tokens: 382
-Average number of tokens per sentence 15.28
-Adjectives: 	 	                   13
-Adverbs:    	 	                    8
-Prepositions/Subordinating Conjuctions:    45 
-Total:      	 	                   66
-
-
 Here's the initial prompt:
 Stats for "./golden_nugget3/prompts/golden_nugget2.txt":
-Number of sentences: 10
-Number of tokens: 184
-Average number of tokens per sentence 18.40
-Adjectives: 	 	                   15
-Adverbs:    	 	                   15
-Prepositions/Subordinating Conjuctions:    14 
-Total:      	 	                   44
+Number of sentences: 11
+Number of tokens: 192
+Average number of tokens per sentence 17.45
+Adjectives: 	 	                   14
+Adverbs:    	 	                   17
+Prepositions/Subordinating Conjuctions:    15 
+Total:      	 	                   46
 
 
 error
-Stats for "./output/golden_nugget3_golden_nugget2_5.txt":
-Number of sentences: 25
-Number of tokens: 406
-Average number of tokens per sentence 16.24
-Adjectives: 	 	                   22
-Adverbs:    	 	                    7
-Prepositions/Subordinating Conjuctions:    46 
-Total:      	 	                   75
-
-
 golden_nugget3
 Here's the initial prompt:
 Stats for "./golden_nugget3/prompts/golden_nugget3.txt":
 Number of sentences: 10
-Number of tokens: 214
-Average number of tokens per sentence 21.40
+Number of tokens: 229
+Average number of tokens per sentence 22.90
 Adjectives: 	 	                   17
-Adverbs:    	 	                   20
-Prepositions/Subordinating Conjuctions:    19 
-Total:      	 	                   56
+Adverbs:    	 	                   22
+Prepositions/Subordinating Conjuctions:    21 
+Total:      	 	                   60
 
 
 error
-Stats for "./output/golden_nugget3_golden_nugget3_1.txt":
-Number of sentences: 26
-Number of tokens: 402
-Average number of tokens per sentence 15.46
-Adjectives: 	 	                   14
-Adverbs:    	 	                   11
-Prepositions/Subordinating Conjuctions:    53 
-Total:      	 	                   78
-
-
 Here's the initial prompt:
 Stats for "./golden_nugget3/prompts/golden_nugget3.txt":
 Number of sentences: 10
-Number of tokens: 214
-Average number of tokens per sentence 21.40
+Number of tokens: 229
+Average number of tokens per sentence 22.90
 Adjectives: 	 	                   17
-Adverbs:    	 	                   20
-Prepositions/Subordinating Conjuctions:    19 
-Total:      	 	                   56
+Adverbs:    	 	                   22
+Prepositions/Subordinating Conjuctions:    21 
+Total:      	 	                   60
 
 
 error
-Stats for "./output/golden_nugget3_golden_nugget3_2.txt":
-Number of sentences: 26
-Number of tokens: 388
-Average number of tokens per sentence 14.92
-Adjectives: 	 	                   21
-Adverbs:    	 	                    4
-Prepositions/Subordinating Conjuctions:    46 
-Total:      	 	                   71
-
-
 Here's the initial prompt:
 Stats for "./golden_nugget3/prompts/golden_nugget3.txt":
 Number of sentences: 10
-Number of tokens: 214
-Average number of tokens per sentence 21.40
+Number of tokens: 229
+Average number of tokens per sentence 22.90
 Adjectives: 	 	                   17
-Adverbs:    	 	                   20
-Prepositions/Subordinating Conjuctions:    19 
-Total:      	 	                   56
+Adverbs:    	 	                   22
+Prepositions/Subordinating Conjuctions:    21 
+Total:      	 	                   60
 
 
 error
-Stats for "./output/golden_nugget3_golden_nugget3_3.txt":
-Number of sentences: 23
-Number of tokens: 383
-Average number of tokens per sentence 16.65
-Adjectives: 	 	                   18
-Adverbs:    	 	                    3
-Prepositions/Subordinating Conjuctions:    47 
-Total:      	 	                   68
-
-
 Here's the initial prompt:
 Stats for "./golden_nugget3/prompts/golden_nugget3.txt":
 Number of sentences: 10
-Number of tokens: 214
-Average number of tokens per sentence 21.40
+Number of tokens: 229
+Average number of tokens per sentence 22.90
 Adjectives: 	 	                   17
-Adverbs:    	 	                   20
-Prepositions/Subordinating Conjuctions:    19 
-Total:      	 	                   56
+Adverbs:    	 	                   22
+Prepositions/Subordinating Conjuctions:    21 
+Total:      	 	                   60
 
 
 error
-Stats for "./output/golden_nugget3_golden_nugget3_4.txt":
-Number of sentences: 23
-Number of tokens: 401
-Average number of tokens per sentence 17.43
-Adjectives: 	 	                   19
-Adverbs:    	 	                    3
-Prepositions/Subordinating Conjuctions:    51 
-Total:      	 	                   73
-
-
 Here's the initial prompt:
 Stats for "./golden_nugget3/prompts/golden_nugget3.txt":
 Number of sentences: 10
-Number of tokens: 214
-Average number of tokens per sentence 21.40
+Number of tokens: 229
+Average number of tokens per sentence 22.90
 Adjectives: 	 	                   17
-Adverbs:    	 	                   20
-Prepositions/Subordinating Conjuctions:    19 
-Total:      	 	                   56
+Adverbs:    	 	                   22
+Prepositions/Subordinating Conjuctions:    21 
+Total:      	 	                   60
 
 
 error
-Stats for "./output/golden_nugget3_golden_nugget3_5.txt":
-Number of sentences: 27
-Number of tokens: 371
-Average number of tokens per sentence 13.74
-Adjectives: 	 	                   17
-Adverbs:    	 	                    7
-Prepositions/Subordinating Conjuctions:    46 
-Total:      	 	                   70
-
-

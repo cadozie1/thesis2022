@@ -15,3 +15,4 @@ def find_plan(domain_file, problem_file, plan_file):
             f.write('\n'.join([act['name'] for act in resp['result']['plan']]))
     else:
         print("error")
+        quit()
